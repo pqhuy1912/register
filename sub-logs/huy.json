@@ -1,0 +1,16 @@
+{
+
+  "owner": {
+    "username": "pqhuy1912",
+    "email": "huy.quang.19200@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "huy-react-test", 
+      "value": "https://react-trvl-website.vercel.app/"
+    }
+  },
+
+  "proxied": false
+}
